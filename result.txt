@@ -1,0 +1,12 @@
+Q1: What are the most popular three articles of all time?
+name: Candidate is jerk, alleges rival - views 338647
+name: Bears love berries, alleges bear - views 253801
+name: Bad things gone, say good people - views 170098
+Q2: Who are the most popular authors of all time?
+name: Ursula La Multa - views 507594
+name: Rudolf von Treppenwitz - views 423457
+name: Anonymous Contributor - views 170098
+name: Markoff Chaney - views 84557
+Q3: Which days have errors exceeding 1%?
+day: 2016-07-17 - error percentage 2.262686
+The End
