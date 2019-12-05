@@ -1,6 +1,6 @@
 # Log Analysis
 ## Intro 
-This is a reporting tool used to gain insights into the data, it prints out the results in plain text. This tool is built using **Python**, queries are made using **PostgreSQL**.
+This is a reporting tool used to gain insights into the data, it prints out the results in plain text. This tool is built using **Python 3.8**, queries are made using **PostgreSQL**.
 ## What it does?
 The tool answers the following questions:
 * What are the most popular three articles of all time?
